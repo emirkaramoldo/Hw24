@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hw24</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="details">Details</string>
+    <string name="alive">Живой</string>
+    <string name="character">Персонаж</string>
+</resources>
