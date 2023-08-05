@@ -37,6 +37,6 @@ class FirstFragment : Fragment() {
     }
 
     private fun onClick(characters: Characters) {
-        findNavController().navigate(R.id.secondFragment, bundleOf("harry" to characters))
+        findNavController().navigate(FirstFragmentDirections.actionMainFragmentToSecondFragment(characters))
     }
 }
